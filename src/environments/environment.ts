@@ -5,6 +5,6 @@
 
 export const environment = {
   production: false,
-  apiBaseURL: "http://qa-api.myu.co"
+  API_ENDPOINT: "http://qa-api.myu.co"
 
 };

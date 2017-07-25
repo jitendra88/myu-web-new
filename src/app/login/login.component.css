@@ -1,0 +1,124 @@
+.bg_lsf {
+  background-image: url('../../assets/images/bg.png');
+  background-repeat: repeat;
+  width: 100%;
+  height: 100vh;
+}
+
+.lsf_container {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px;
+  padding-top: 80px;
+}
+
+.lsf_container_inner {
+  float: left;
+  width: 100%;
+}
+
+.lsf_logo {
+  width: 100%;
+  text-align: center;
+  padding-bottom: 20px;
+  display: block;
+}
+
+.lsf_logo img {
+  width: 70px;
+}
+
+.lsf_quote_text {
+  width: 100%;
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #999;
+  display: block;
+}
+
+.lsf_container_inner .mat-input-container,
+.lsf_container_inner .mat-select {
+  width: 100%;
+}
+
+.login_box_inner {
+  padding: 20px;
+}
+
+.mat-card-header .mat-card-title {
+  font-size: 1.2em !important;
+}
+
+.login_box_inner .mat-input-container {
+  width: 100%;
+}
+
+.login_container .mat-input-container {
+  width: 100%;
+}
+
+.mat-card-actions .mat-raised-button:first-child {
+  margin-left: 10px;
+}
+
+.mat-card>.mat-card-actions {
+  margin-bottom: 2px;
+}
+
+.appstore_link {
+  width: 100%;
+  padding: 20px 2px 0px 2px;
+}
+
+.appstore_link a img {
+  width: 90%;
+}
+
+.appstore_link a:first-child {
+  float: left;
+  width: 48%;
+  text-align: left;
+}
+
+.appstore_link a:last-child {
+  float: right;
+  width: 48%;
+  text-align: right;
+}
+
+md-spinner {
+  position: absolute;
+  float: left;
+  width: 24px;
+  height: 24px;
+  margin: 5px 10px 0px 0px;
+  bottom: 5px;
+  right: -40px;
+}
+
+.error_msg {
+  color: #E53935;
+}
+
+.not_register {
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+  padding: 0px;
+  font-size: 1em;
+}
+
+.not_register p {
+  margin: 0;
+}
+
+.not_register a {
+  color: rgba(0, 148, 133, 1);
+}
+
+.not_register a:hover {
+  color: rgba(0, 148, 133, 1);
+}

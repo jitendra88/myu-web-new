@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>user_board</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-Kit_events" transform="translate(-333.000000, -102.000000)" stroke="#A1AEC8">
+            <path d="M348,116 C348,116.981208 346.290444,118 343.692308,118 L338.307692,118 C335.709556,118 334,116.981208 334,116 L334,114 C334,113.133058 335.254556,112.238139 337.230769,112 C338.083333,112.592062 339.483333,112.943962 341.538462,113 C342.516667,112.943962 343.916667,112.592062 344.769231,112 C346.745444,112.238139 348,113.133058 348,114 L348,116 Z M337,107 C337,104.791 338.790857,103 341,103 C343.209143,103 345,104.791 345,107 C345,109.209 343.209143,111 341,111 C338.790857,111 337,109.209 337,107 Z" id="user_board"></path>
+        </g>
+    </g>
+</svg>
